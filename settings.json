@@ -1,0 +1,20 @@
+{
+    "razor.languageServer.forceRuntimeCodeGeneration": true,
+    "makefile.dryrunSwitches": [
+        "--always-make",
+        "--keep-going",
+        "--print-directory",
+        ""
+    ],
+    "npm.runSilent": true,
+    "editor.accessibilitySupport": "on",
+    "C_Cpp.codeAnalysis.clangTidy.checks.enabled": [
+        "*"
+    ],
+    "git.followTagsWhenSync": true,
+    "makefile.alwaysPreConfigure": true,
+    "makefile.alwaysPostConfigure": true,
+    "go.testExplorer.alwaysRunBenchmarks": true,
+    "go.coverOnSave": true,
+    "git.pruneOnFetch": true
+}
